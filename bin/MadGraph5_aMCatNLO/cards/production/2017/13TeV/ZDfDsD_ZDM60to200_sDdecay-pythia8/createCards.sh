@@ -11,7 +11,7 @@ template_dir="ZDfDsD_sDdecay-pythia8/"
 
 for mp in "${masspoints[@]}"
 do
-    dir="ZDsD_sDdecay_M${mp}-pythia8/"
+    dir="ZDfDsD_sDdecay_M${mp}-pythia8/"
     mkdir -p "$dir"
     
     cp "${template_dir}ZDfDsD_sDdecay-pythia8_extramodels.dat" "${dir}ZDfDsD_sDdecay_M${mp}-pythia8_extramodels.dat"
