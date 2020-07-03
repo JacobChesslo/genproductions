@@ -5,7 +5,7 @@
 #
 #  Created by Jacob Chesslo on 6/30/20.
 #
-masspoints=(80 91.11876 100 125 200 300 400 500 600 700)
+masspoints=(5 50 100 150 200 225 235 245)
 base_dir="2017/13TeV/"
 template_dir="ZDfDsD_fD1scan_fDdecay-pythia8/"
 
